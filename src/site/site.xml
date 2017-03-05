@@ -7,28 +7,27 @@
     <menu name="Overview">
     </menu>
 
-    <menu name="Classes">
-      <item name="GL Homework" collapse="true">
-        <item name="GL1" href="index.html" />
-        <item name="GL2" href="index.html" />
-        <item name="GL3" href="index.html" />
-        <item name="GL4" href="index.html" />
-        <item name="GL5" href="index.html" />
-        <item name="GL6" href="index.html" />
-        <item name="GL7" href="index.html" />
-        <item name="GL8" href="index.html" />
-      </item>
-      <item name="VN Homework" collapse="true">
-        <item name="VN1" href="index.html" />
-        <item name="VN2" href="index.html" />
-        <item name="VN3" href="index.html" />
-        <item name="VN4" href="index.html" />
-        <item name="VN5" href="index.html" />
-        <item name="VN6" href="index.html" />
-        <item name="VN7" href="index.html" />
-        <item name="VN8" href="index.html" />
-      </item>
+    <menu name="GiaoLy">
 
+      <item name="GL1A" href="./giaoly/1A/syllabus.html" collapse="true">
+        <item name="Syllabus" href="./giaoly/1A/syllabus.html" />
+        <item name="Homework" href="./giaoly/1A/homework.html" />
+      </item>
+      <item name="GL1B" href="./giaoly/1B/syllabus.html" collapse="true">
+        <item name="Syllabus" href="./giaoly/1B/syllabus.html" />
+        <item name="Homework" href="./giaoly/1B/homework.html" />
+      </item>
+    </menu>
+
+    <menu name="VietNgu" >
+      <item name="VN1A" href="./vietngu/1A/syllabus.html" collapse="true">
+        <item name="Sylabus" href="./vietngu/1A/syllabus.html" />
+        <item name="Homework" href="./vietngu/1A/homework.html" />
+      </item>
+      <item name="VN1B" href="./vietngu/1B/syllabus.html" collapse="true">
+        <item name="Sylabus" href="./vietngu/1A/syllabus.html" />
+        <item name="Homework" href="./vietngu/1B/homework.html" />
+      </item>
     </menu>
 
 
