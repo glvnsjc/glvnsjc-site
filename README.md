@@ -2,5 +2,5 @@
 
 Use this maven module to publish glvnsjc.github.io  with
 
-    mvn verify site site:stage scm-publish:publish-scm
+    mvn clean site site:stage scm-publish:publish-scm
 

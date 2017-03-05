@@ -8,7 +8,7 @@
   <artifactId>glvnsjc-site</artifactId>
   <version>1-SNAPSHOT</version>
 
-  <name>Our Lady Of La Vang - Giáo Lý Vi?t Ng?</name>
+  <name>Our Lady Of La Vang - Giáo Lý Việt Ngữ</name>
 
   <organization>
     <name>GLVNSJC - LVC Site</name>
@@ -43,7 +43,7 @@
           <artifactId>maven-scm-publish-plugin</artifactId>
           <version>1.1</version>
           <configuration>
-            <pubScmUrl>scm:git:ssh://git@github.com/glvnsjc/glvnsjc.github.io.git</pubScmUrl>
+            <pubScmUrl>scm:git:https://github.com/glvnsjc/glvnsjc.github.io.git</pubScmUrl>
             <scmBranch>master</scmBranch>
             <content>${project.reporting.outputDirectory}</content>
             <!-- mono-module doesn't require site:stage -->
