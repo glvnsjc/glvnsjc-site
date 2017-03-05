@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project xmlns="http://maven.apache.org/DECORATION/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
+
+  <body>
+
+    <menu name="Overview">
+    </menu>
+
+    <menu name="Classes">
+      <item name="GL Homework" collapse="true">
+        <item name="GL1" href="index.html" />
+        <item name="GL2" href="index.html" />
+        <item name="GL3" href="index.html" />
+        <item name="GL4" href="index.html" />
+        <item name="GL5" href="index.html" />
+        <item name="GL6" href="index.html" />
+        <item name="GL7" href="index.html" />
+        <item name="GL8" href="index.html" />
+      </item>
+      <item name="VN Homework" collapse="true">
+        <item name="VN1" href="index.html" />
+        <item name="VN2" href="index.html" />
+        <item name="VN3" href="index.html" />
+        <item name="VN4" href="index.html" />
+        <item name="VN5" href="index.html" />
+        <item name="VN6" href="index.html" />
+        <item name="VN7" href="index.html" />
+        <item name="VN8" href="index.html" />
+      </item>
+
+    </menu>
+
+
+  </body>
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.6</version>
+  </skin>
+
+</project>
+

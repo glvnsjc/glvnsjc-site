@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.glvnsjc</groupId>
+  <artifactId>glvnsjc-site</artifactId>
+  <version>1-SNAPSHOT</version>
+
+  <name>Our Lady Of La Vang - Giáo Lý Vi?t Ng?</name>
+
+  <organization>
+    <name>GLVNSJC - LVC Site</name>
+  </organization>
+
+  <inceptionYear>2003</inceptionYear>
+
+  <url>glvnsjc.github.io</url>
+
+  <packaging>pom</packaging>
+
+  <description>GLVNSJC - LVC Site</description>
+
+  <scm>
+    <developerConnection>scm:git:https://github.com/glvnsjc/glvnsjc.github.io.git</developerConnection>
+  </scm>
+
+  <distributionManagement>
+    <site>
+      <id>github</id>
+      <url>scm:git:ssh://git@github.com/glvnsjc/glvnsjc-site.git</url>
+    </site>
+  </distributionManagement>
+
+  <build>
+
+
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-scm-publish-plugin</artifactId>
+          <version>1.1</version>
+          <configuration>
+            <pubScmUrl>scm:git:ssh://git@github.com/glvnsjc/glvnsjc.github.io.git</pubScmUrl>
+            <scmBranch>master</scmBranch>
+            <content>${project.reporting.outputDirectory}</content>
+            <!-- mono-module doesn't require site:stage -->
+          </configuration>
+          <executions>
+            <execution>
+              <id>scm-publish</id>
+              <phase>site-deploy</phase>
+              <!-- deploy site with maven-scm-publish-plugin -->
+              <goals>
+                <goal>publish-scm</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-site-plugin</artifactId>
+          <version>3.6</version>
+          <configuration>
+            <inputEncoding>UTF-8</inputEncoding>
+            <skipDeploy>true</skipDeploy>
+          </configuration>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-project-info-reports-plugin</artifactId>
+          <version>2.9</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+
+  </build>
+
+  <reporting>
+    <plugins>
+    </plugins>
+  </reporting>
+
+</project>
