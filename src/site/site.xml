@@ -5,26 +5,28 @@
   <body>
 
     <menu name="Overview">
+      <item name="Introduction" href="./index.html" />
+      <item name="Calendar" href="./calendar.html" />
     </menu>
 
     <menu name="GiaoLy">
 
-      <item name="GL1A" href="./giaoly/1A/syllabus.html" collapse="true">
+      <item name="GL1A" href="./giaoly/1A/syllabus.html" collapse="false">
         <item name="Syllabus" href="./giaoly/1A/syllabus.html" />
         <item name="Homework" href="./giaoly/1A/homework.html" />
       </item>
-      <item name="GL1B" href="./giaoly/1B/syllabus.html" collapse="true">
+      <item name="GL1B" href="./giaoly/1B/syllabus.html" collapse="false">
         <item name="Syllabus" href="./giaoly/1B/syllabus.html" />
         <item name="Homework" href="./giaoly/1B/homework.html" />
       </item>
     </menu>
 
-    <menu name="VietNgu" >
-      <item name="VN1A" href="./vietngu/1A/syllabus.html" collapse="true">
+    <menu name="VietNgu">
+      <item name="VN1A" href="./vietngu/1A/syllabus.html" collapse="false">
         <item name="Sylabus" href="./vietngu/1A/syllabus.html" />
         <item name="Homework" href="./vietngu/1A/homework.html" />
       </item>
-      <item name="VN1B" href="./vietngu/1B/syllabus.html" collapse="true">
+      <item name="VN1B" href="./vietngu/1B/syllabus.html" collapse="false">
         <item name="Sylabus" href="./vietngu/1A/syllabus.html" />
         <item name="Homework" href="./vietngu/1B/homework.html" />
       </item>

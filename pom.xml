@@ -35,6 +35,7 @@
 
   <build>
 
+    <defaultGoal>site</defaultGoal>
 
     <pluginManagement>
       <plugins>
