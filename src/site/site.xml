@@ -2,44 +2,55 @@
 <project xmlns="http://maven.apache.org/DECORATION/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
 
-  <body>
-
-    <menu name="Overview">
-      <item name="Introduction" href="./index.html" />
-      <item name="Calendar" href="./calendar.html" />
-    </menu>
-
-    <menu name="GiaoLy">
-
-      <item name="GL1A" href="./giaoly/1A/syllabus.html" collapse="false">
-        <item name="Syllabus" href="./giaoly/1A/syllabus.html" />
-        <item name="Homework" href="./giaoly/1A/homework.html" />
-      </item>
-      <item name="GL1B" href="./giaoly/1B/syllabus.html" collapse="false">
-        <item name="Syllabus" href="./giaoly/1B/syllabus.html" />
-        <item name="Homework" href="./giaoly/1B/homework.html" />
-      </item>
-    </menu>
-
-    <menu name="VietNgu">
-      <item name="VN1A" href="./vietngu/1A/syllabus.html" collapse="false">
-        <item name="Sylabus" href="./vietngu/1A/syllabus.html" />
-        <item name="Homework" href="./vietngu/1A/homework.html" />
-      </item>
-      <item name="VN1B" href="./vietngu/1B/syllabus.html" collapse="false">
-        <item name="Sylabus" href="./vietngu/1A/syllabus.html" />
-        <item name="Homework" href="./vietngu/1B/homework.html" />
-      </item>
-    </menu>
-
-
-  </body>
+  <version position="none" />
 
   <skin>
     <groupId>org.apache.maven.skins</groupId>
     <artifactId>maven-fluido-skin</artifactId>
     <version>1.6</version>
   </skin>
+  <custom>
+    <fluidoSkin>
+      <sourceLineNumbersEnabled>true</sourceLineNumbersEnabled>
+      <googlePlusOne />
+      <googleSearch>
+        <sitesearch>https://glvnsjc.github.io</sitesearch>
+      </googleSearch>
+    </fluidoSkin>
+  </custom>
+
+  <body>
+
+    <menu name="Overview">
+      <item name="Introduction" href="/index.html" />
+      <item name="Calendar" href="/calendar.html" />
+    </menu>
+
+    <menu name="GiaoLy">
+
+      <item name="GL1A" href="/giaoly/1A/index.html" collapse="true">
+        <item name="Syllabus" href="/giaoly/1A/syllabus.html" />
+        <item name="Homework" href="/giaoly/1A/homework.html" />
+      </item>
+      <item name="GL1B" href="/giaoly/1B/index.html" collapse="true">
+        <item name="Syllabus" href="/giaoly/1B/syllabus.html" />
+        <item name="Homework" href="/giaoly/1B/homework.html" />
+      </item>
+    </menu>
+
+    <menu name="VietNgu">
+      <item name="VN1A" href="/vietngu/1A/index.html" collapse="true">
+        <item name="Sylabus" href="/vietngu/1A/syllabus.html" />
+        <item name="Homework" href="/vietngu/1A/homework.html" />
+      </item>
+      <item name="VN1B" href="/vietngu/1B/index.html" collapse="true">
+        <item name="Sylabus" href="/vietngu/1A/syllabus.html" />
+        <item name="Homework" href="/vietngu/1B/homework.html" />
+      </item>
+    </menu>
+
+
+  </body>
 
 </project>
 
