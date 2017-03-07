@@ -8,4 +8,4 @@ Please help your children to do homework this lesson and sign.
 
   * Students continue to memorize the Nice Creed.
   * Pay attention on Mass.
-  * We will learn two main parts in the Mass next week. Test
+  * We will learn two main parts in the Mass next week.
