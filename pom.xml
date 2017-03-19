@@ -44,7 +44,7 @@
           <artifactId>maven-scm-publish-plugin</artifactId>
           <version>1.1</version>
           <configuration>
-            <pubScmUrl>scm:git:git://github.com/glvnsjc/glvnsjc.github.io.git</pubScmUrl>
+            <pubScmUrl>scm:git:ssh://github.com/glvnsjc/glvnsjc.github.io.git</pubScmUrl>
             <scmBranch>master</scmBranch>
             <content>${project.reporting.outputDirectory}</content>
             <!-- mono-module doesn't require site:stage -->
