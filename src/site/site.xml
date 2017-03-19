@@ -27,24 +27,25 @@
     </menu>
 
     <menu name="GiaoLy">
-
-      <item name="GL4A" href="/giaoly/4A/index.html" collapse="true">
+      <item name="GL3A" href="/giaoly/3A/homework.html" collapse="true">
+        <item name="Homework" href="/giaoly/3A/homework.html" />
+      </item>
+      <item name="GL4A" href="/giaoly/4A/homework.html" collapse="true">
         <item name="Homework" href="/giaoly/4A/homework.html" />
       </item>
-      <item name="GL6A" href="/giaoly/6A/index.html" collapse="true">
+      <item name="GL6A" href="/giaoly/6A/homework.html" collapse="true">
         <item name="Homework" href="/giaoly/6A/homework.html" />
       </item>
     </menu>
 
     <menu name="VietNgu">
-      <item name="VN1A" href="/vietngu/1A/index.html" collapse="true">
+      <item name="VN1A" href="/vietngu/1A/homework.html" collapse="true">
         <item name="Homework" href="/vietngu/1A/homework.html" />
       </item>
-      <item name="VN7B" href="/vietngu/7B/index.html" collapse="true">
+      <item name="VN7B" href="/vietngu/7B/homework.html" collapse="true">
         <item name="Homework" href="/vietngu/7B/homework.html" />
       </item>
     </menu>
-
 
   </body>
 
