@@ -12,3 +12,4 @@
   * 05/19/2017 - Friday - First Communion Rehearsal
   * 05/20/2017 - Saturday - First Communion Celebration
   
+See letters sending home for details of  First Communion and Confirmation events
