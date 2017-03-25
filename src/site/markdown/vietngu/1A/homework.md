@@ -2,7 +2,7 @@
 
 ### 3/24/2017
 
-Kính gửi Quý Phuđ Huynh,
+Kính gửi Quý Phụ Huynh,
 
 Tuần rồi các em đã học tới chữ M & N. Xin Quý Phụ Huynh nhắc các em ôn và làm bài trang 104-105.
 
