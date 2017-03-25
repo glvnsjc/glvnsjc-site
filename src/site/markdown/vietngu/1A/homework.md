@@ -1,4 +1,14 @@
-﻿## Việt Ngữ 1A
+## Việt Ngữ 1A
+
+### 3/24/2017
+
+Kính gửi Quý Phuđ Huynh,
+
+Tùn rồi các em đã học tới chữ M & N. Xin Quý Phụ Huynh nhắc các em ôn và làm bài trang 104-105.
+
+Cám ơn Quý Phụ Huynh.
+
+Cô Thảo. 
 
 ### 3/19/2017
 
