@@ -3,7 +3,7 @@
   * 03/25/2017 - Normal school day. 
   * 04/01/2017 - Special meeting for both First Communion and Confirimation
   * 04/08/2017 - Normal school day - Rice bow collection - Confirmation Class retreat
-  * 04/15/2017 - Ester Sunday - No school
+  * 04/15/2017 - Easter Sunday - No school
   * 04/22/2017 - Normal school day
   * 04/29/2017 - Normal school day
   * 05/06/2017 - Our Lady Of Peace pilgrimages from all schools
