@@ -1,6 +1,49 @@
 # Giáo Lý 3A
 
-##03/19/2017
+## 03/25/2017
+
+Kính chào quý phụ huynh/Giám hộ,
+
+Một lần nữa xin được hết lòng cám ơn quý phụ huynh đã mang con em đến lớp đầy đủ ngày hôm nay.  Tất cả các em đều đến lớp và chỉ có 1 em không đi học được vì không được khoẻ.  Tạ ơn Chúa!
+
+Tuần này các em được chia sẽ về bài Phúc Âm của Chúa Nhật thứ 4 mùa Chay, bài nói về Chúa Giêsu chửa lành một người mù từ bẩm sinh.  Các em được chia sẽ rằng đôi mắt chúng ta được Chúa cho nhìn thấy nhưng đôi lúc chúng ta quên nhìn thấy và nhớ rằng Thiên Chúa rất yêu thương chúng ta.  Các em cầu nguyện xin Chúa cho các em luôn biết mở mắt tâm hồn nhận ra tình yêu của Chúa và theo Chúa mỗi ngày không bao giờ bỏ Chúa.
+
+Tuần này các em học bài 14 trong sách Giáo Lý 3 - Chúa Giêsu chịu chết vì chúng ta.  Các em học về sự hy sinh cao cả nhất mà Thiên Chúa dành cho nhân loại là hy sinh con một của Ngài là Chúa Giêsu để chết cho chúng ta được sống đời đời.  Và Chúa Giêsu nuôi dưởng chúng ta bằng chính mình và máu của Ngài.
+
+Các em hôm nay tiếp tục làm class project về Thánh Lễ.  Các em học nhận ra những vật dụng dùng trong Thánh Lễ.  Tuần tới, các em sẽ mang project đó về nhà.
+
+Những ngày quan trọng đang sắp đến.  Kính xin quý phụ huynh bỏ chút thời giờ đến tham dự buổi họp quan trong vào tuần tới, thứ Bảy, ngày 1 tháng 4, vào lúc 12:45pm, tại trường St. Patrick (Trường La Vang Chiều).  Buổi họp này rất cần thiết cho việc chuẩn bị con em đón nhận 2 Bí Tích Giải Tội và Mình Máu Thánh Chúa.
+XIN QUÝ PHỤ HUYNH ĐỪNG BỎ QUA BUỔI HỌP NÀY.
+
+Kính xin quý phụ huynh tiếp tục giúp con em trong việc thu góp cho người nghèo qua chương trình Rice Bowl của Catholic Relief Services.  Các em cỏ thể mang trở lại trường vào tuần tới hoặc tuần sau đó.  Ngày 8 tây tháng 4, Cô Hoa sẽ khui những rice bowls và cả lớp sẽ cùng nhau chọn mua những con súc vật để tặng cho người nghèo.  Các thầy cô cũng sẽ chung góp phần hy sinh của mình để cùng với các em làm việc bác ái này.  Xin chân thành cám ơn quý phụ huynh rất nhiều.
+
+Kèm theo email này là Thư mời phụ huynh đến buổi họp tuần tới + Bài làm về nhà của tuần này (Bài học 14).
+
+Kính chúc quý phụ huynh một tuần mới thật nhiều ơn lành của Chúa,
+
+Dear Parents/Guardians,
+
+Once again, thank you so much for having brought your child(ren) to school this week.  Every child came to class today except for only one child who was not feeling well.  Praise God!
+
+This week, the children listened to the sharing of the Gospel reading for the 4th Sunday of Lent where Jesus healed a man born blind.  The children were reminded that even when we are given eyesight to see, we fail to see God's love for us.  Their prayer in class today was to ask God to open our eyes, open the eyes of our hearts so that we can see Jesus and follow Jesus and always worship Jesus who is God.
+
+This week, the children also learned lesson 14 in Giao Ly 3 book - We celebrate the sacrifice of Jesus.  We learned about God's greatest gift to humanity, his only Son Jesus Christ who came to die for our sins so that we can have eternal life.  And how Jesus nourishes us with his body and blood and keep us close to him.
+
+Today, the children also finished our class project about the objects found at Mass.  They learned to identify the objects seen at Mass.  They will bring the project home next week.
+
+The important days are coming upon us.  We ask that you put aside some time and come to an important meeting next Saturday, April 1st, at 12:45pm, in the hallway of St. Patrick's School (La Vang Chieu School).  This meeting is important and crucial in preparing our children to receive the 2 sacraments of First Reconciliation and First Holy Communion.  PLEASE DO NOT MISS THIS MEETING.
+
+Please continue to help your child(ren) collect for the Rice Bowl project of Catholic Relief Services.  Please encourage them to continue to "work" for the poorest children.  They can bring the rice bowls back next week (April 1st) or the following week (April 8th).  On April 8th, Cô Hoa will open the rice bowls and our class will together use the money to pick out farm animals and purchase as gifts for the poor.  Teachers also participate in this act of generosity.  Thank you so much for encouraging your child(ren) to participate in this generous cause.
+
+Attached in this email is the Parents' invitation to the meeting next week + Homework Lesson 14.
+
+May God bless you all with a new week filled with grace and happiness,
+
+Cô Yến - Thầy Trí - Cô Hoa
+2 Attachments
+
+
+## 03/19/2017
 
 Kính chào quý phụ huynh,
 
