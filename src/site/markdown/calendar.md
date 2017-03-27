@@ -7,7 +7,7 @@
   * 04/22/2017 - Normal school day
   * 04/29/2017 - Normal school day
   * 05/06/2017 - Our Lady Of Peace Pilgrimages from all schools
-  * 05/13/2017 - Last day of school
+  * 05/13/2017 - Last day of school award celebration
 
 Special events:
 
