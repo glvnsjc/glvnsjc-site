@@ -1,5 +1,38 @@
 # Giáo Lý 3A
 
+## 04/01/2017
+
+Kính thưa quý phụ huynh/Người giám hộ,
+
+Xin cám ơn quý phụ huynh đã đến tham dự đông đủ trong buổi họp trưa nay...và các em cũng đã đến lớp học đầy đủ, chỉ thiếu 1 em.  Tạ ơn Chúa!
+
+Tuần này các em học bài 15: Chúa Giêsu nuôi dưỡng chúng ta.  Thầy Trí đã chia sẽ với các em rằng Chúa Giêsu rất yêu thương các môn đệ của Ngài, và yêu thương chúng ta nên Ngày đã để lại cho chúng ta món quà quý giá nhất là chính Mình và Máu của Ngài để nuôi dưỡng chúng ta, để nuôi dưỡng linh hồn của chúng ta.  Và cũng như con người chúng ta cần những thức ăn bổ dưỡng để được khoẻ mạnh thì thức ăn giúp cho linh hồn chúng ta khoẻ mạnh chính là Mình và Máu Chúa Giêsu.  Các em được khuyến khích tham dự Thánh Lễ thường xuyên với gia đình để được Chúa nuôi dưỡng linh hồn chúng ta.
+
+Tuần tới, thứ bảy, ngày 8 tháng 5, các em sẽ học về Tuần Thánh, nhất là thứ Sáu Tuần Thánh khi Chúa chịu chết cho chúng ta.  Các em sẽ cùng nhau đi ̣đảng Thánh Giá trong lớp dùng sách hình cho trẻ em (kèm theo trong attachment).  Sách này có stickers giúp các em hiểu bài và yêu Chúa Giêsu chịu đóng đinh.
+Xin quý phụ huynh cho các em mang lại Rice Bowls vào lớp để cả lớp cùng nhau lên Catholic Relief Services website để mua những con súc vật và tặng cho các gia đình thật nghèo.  Xin cám ơn các phụ huynh đã gởi những rice bowls vào và cũng xin cám ơn 2 phụ huynh đã tặng cho chương trình tiền trong bì thư. 😄.  Mình sẽ ráng nhớ chụp hình những con súc vật lớp sẽ mua được để chia sẽ cùng quý phụ huynh.
+
+Kèm theo email này là bài làm về nhà bài 15.  Có một số em không được phát homework hôm nay vì máy in bị trục trặc.  Xin phụ huynh vui lòng check folder và in ra cho các em nào không có homework.  Xin cám ơn nhiều.
+
+Xin kính chúc quý phụ huynh một tuần mới bình yên và tràn đầy hồng ân Chúa.
+
+Dear Parents/Guardians,
+
+Thank you so much for your presence at the parents' meeting...and thank you for bringing your children to class this week.  We had an almost full house, with only one child absent.  Praise God!
+
+This week the children learned lesson 15: Jesus is the bread of life.  Thay Tri shared with them that Jesus loves his disciples so much, and in turn, loves us so much that he wanted to leave us the most precious gift: His Body and Blood to nourish our souls.  Just as our bodies need nutritious foods to keep us alive and healthy, so do our souls.  And the food that keeps our souls healthy and faithful is Jesus Christ, his Body and Blood.  Jesus is our bread of life.  The children are encouraged and reminded to attend Mass regularly with their family to receive Jesus to keep their souls strong and faithful.
+
+Next Saturday, April 8, our class with learn about Holy Week, especially Good Friday, when Jesus died on the cross for all of us.  We will learn about the stations of cross using a very cute booklet with stickers included, made specifically for children (please see attachment).  The stickers will help the children have more love and compassion for Jesus Christ crucified.
+
+Please send the rice bowls back with your children next week.  We will together go online at Catholic Relief Services to purchase farm animals and give as gifts to the poorest children.  Thank you to the parents who have previously sent in their children's rice bowls and thank you to 2 parents who sent in money today.
+
+Attached is the homework for lesson 15.  Some students did not receive the homework today due to the malfunction of my printer.  Please check your child's white folder and print out homework if needed.  Thank you so much.
+
+May God bless you all with a new week filled with grace and happiness,
+
+C. Yen - T. Tri - C. Hoa
+4 Attachments
+
+
 ## 03/25/2017
 
 Kính chào quý phụ huynh/Giám hộ,
