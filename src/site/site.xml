@@ -26,6 +26,7 @@
       <item name="Calendar" href="/calendar.html" />
     </menu>
 
+    <!--
     <menu name="GiaoLy">
       <item name="GL3A" href="/giaoly/3A/homework.html" collapse="true">
         <item name="Homework" href="/giaoly/3A/homework.html" />
@@ -46,7 +47,7 @@
         <item name="Homework" href="/vietngu/7B/homework.html" />
       </item>
     </menu>
-
+-->
   </body>
 
 </project>
